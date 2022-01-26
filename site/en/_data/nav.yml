@@ -1,19 +1,18 @@
-- title: Apps & Games
+- title: Learn
   desc: Discover resources to start building your Android apps, web apps, and games for Chrome OS.
   icon: game-controller
   sections:
-    - title: Adapting Android
+    - title: Android
       url: android
-    - title: Adapting Web
+    - title: Web
       url: web
     - title: Games
       url: games
-- title: Publish
-  desc: Learn about publishing your apps on the Google Play Store and engage millions of users on Chromebooks.
-  url: publish
-  icon: publish
-  alt: publish
-- title: Develop
+    - title: Enterprise
+      url: enterprise
+    - title: Education
+      url: education
+- title: Use
   desc: Use Chrome OS to develop apps in a fast, secure, and hassle-free environment.
   icon: wrench
   sections:
@@ -25,6 +24,14 @@
       url: web-environment
     - title: Productivity
       url: productivity
-- title: News & Stories
+- title: Publish
+  desc: Learn about publishing your apps on the Google Play Store and engage millions of users on Chromebooks.
+  url: publish
+  icon: publish
+  alt: publish
+- title: News
+  url: news
+  alt: stories
+- title: Stories
   url: news
   alt: stories
